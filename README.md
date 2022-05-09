@@ -1,5 +1,6 @@
 # Email-Extractor-Bot-Python
 Bulk email extraction bot written in python.
+It's a Command line interface (CLI) bot
 
 
 # Installation
